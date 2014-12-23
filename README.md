@@ -5,11 +5,10 @@ Lichen is configured to handle 256 color terminals.
 Many of the colorschemes that can be found online are actually designed
   for gViM, which is the GUI implementation of ViM.
 Lichen will provide a similar syntax highlighting experience as gViM
-  but inside your terminal.
+  but inside a terminal.
 It also has most of the relevant keywords for configuring any new/old 
+  colorscheme, so it provides as a good template for a new 256-terminal
   colorscheme.
-So even if you don't like it, it can serve as a template for a new
-  terminal colorscheme.
 
 
 Lichen was modified from a colorscheme called moss, which partially 
@@ -17,9 +16,10 @@ Lichen was modified from a colorscheme called moss, which partially
 Lichen provides a dark colorscheme with blues, greens, and browns
   designed to minimize distraction and eyestrain from brightness
   while maximizing utility by providing quick distinct color shorthands.
+Reds and oranges are resolved for searching, error handling, and errors.
 
 
-Lichen has been used with nearly every programming language/format 
+Lichen has been tested with nearly every programming language/format 
   including TeX (LaTeX), Python, Fortran, Fortran 90, C, C++, vimscript, 
   PERL, bash, csh, yaml, json, html, xml, md (markdown), MATLAB, 
   sed, and even binary.
