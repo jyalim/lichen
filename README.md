@@ -23,10 +23,15 @@ Lichen has been tested with nearly every programming language/format
   including TeX (LaTeX), Python, Fortran, Fortran 90, C, C++, vimscript, 
   PERL, bash, csh, yaml, json, html, xml, md (markdown), MATLAB, 
   sed, and even binary.
-The vimrc found in http://github.com/hellabyte/myconfig is recommend to
-  get syntax highlighting working for all the above filetypes (i.e. 
+The vimrc found in http://github.com/hellabyte/myconfig is recommended 
+  to get syntax highlighting working for all the above filetypes (i.e. 
   for Fortran 90 the Hellabyte vimrc will correctly provide free-format
   syntax highlighting).
+
+
+To install, use your favorite plugin manager or just use `cp` after 
+  cloning--just make sure that `lichen.vim` ends up in the 
+  correct directory: `$HOME/.vim/colors`.
 
 
 ![ViM Colors Example](http://i.imgur.com/OcdU5F0.png)
