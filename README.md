@@ -29,6 +29,15 @@ The vimrc found in http://github.com/hellabyte/myconfig is recommended
   syntax highlighting).
 
 
+Lichen has been tested on a variety of platforms, including Ubuntu,
+  Arch Linux, CentOS, Redhat, and Mac OS X.
+It has also been tested successfully in a variety of terminals including
+  Terminal.app, iTerm2.app, Gnome Terminal, Terminator, xterm, and 
+  rxvt-unicode (urxvt).
+The most important setting is that the environment variable 
+  `TERM' is set to 256 colors (although 88 colors works too).
+
+
 To install, use your favorite plugin manager or just use `cp` after 
   cloning--just make sure that `lichen.vim` ends up in the 
   correct directory: `$HOME/.vim/colors`.
