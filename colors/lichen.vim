@@ -136,10 +136,10 @@ elseif &t_Co == 88 || &t_Co == 256
   hi WildMenu     cterm=bold  ctermfg=16  ctermbg=76
   hi Folded       ctermfg=114 ctermbg=234
   hi FoldColumn   cterm=bold  ctermfg=114 ctermbg=66
-  hi DiffAdd      ctermfg=029 ctermbg=none cterm=none
+  hi DiffAdd      ctermfg=010 ctermbg=none cterm=none
   hi DiffChange   ctermfg=220 ctermbg=none cterm=none
-  hi DiffDelete   ctermfg=124 ctermbg=none cterm=none
-  hi DiffText                 ctermbg=none cterm=none
+  hi DiffDelete   ctermfg=202 ctermbg=none cterm=none
+  hi DiffText     ctermfg=016 ctermbg=116  cterm=none
   hi User1 ctermfg=243 ctermbg=232
   hi User2 ctermfg=243 ctermbg=232
   hi User3 ctermfg=243 ctermbg=232
